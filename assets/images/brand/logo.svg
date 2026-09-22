@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img"
+     aria-label="Hearthside Comfort Co.">
+  <title>Hearthside Comfort Co.</title>
+  <!-- A hearth: a mantel shelf over an arched opening, drawn by hand. -->
+  <g fill="none" stroke="#1D2A44" stroke-width="3.5"
+     stroke-linecap="round" stroke-linejoin="round">
+    <path d="M6 18h52"/>
+    <path d="M11 18v38"/>
+    <path d="M53 18v38"/>
+    <path d="M11 56h42"/>
+    <path d="M22 56V38a10 10 0 0 1 20 0v18"/>
+  </g>
+  <path d="M32 30a6 6 0 0 1 4 10 6 6 0 0 1-8 0 6 6 0 0 1 4-10z"
+        fill="#8E3B5E"/>
+</svg>

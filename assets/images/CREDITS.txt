@@ -1,0 +1,419 @@
+HEARTHSIDE COMFORT CO. — IMAGE CREDITS
+======================================
+
+Every photograph on this site comes from Pexels or Unsplash. Both licences
+permit commercial use and neither requires attribution. We credit each file
+anyway, and link to the source page where the photographer is named.
+
+Most photographs are from Pexels. Twelve are from Unsplash: partway through the
+build Pexels' image CDN began refusing requests from this address, and rather
+than ship a page with a missing picture those images were sourced from Unsplash
+instead. Each entry below states which licence applies to that file.
+
+We do NOT use images from Amazon, Walmart, eBay, Etsy, Temu, manufacturer
+websites, or image search results. No photograph on this site shows a
+third-party brand logo.
+
+Photographs are illustrative stock photography of the type of item described.
+They are not photographs of the individual unit a customer will receive. Where
+no free-licence photograph honestly showed a listed item, the item was replaced
+rather than mismatched — see the swap table in catalog.md.
+
+Fonts
+-----
+Young Serif and Figtree, both under the SIL Open Font License 1.1, downloaded
+from Google Fonts and self-hosted in assets/fonts/ so that no request is made
+to a third party when a page loads.
+    Young Serif — https://fonts.google.com/specimen/Young+Serif
+    Figtree     — https://fonts.google.com/specimen/Figtree
+
+Our own work
+------------
+assets/images/brand/logo.svg      — drawn for this store
+assets/images/brand/favicon.svg   — drawn for this store
+The seven Easy-On Feature icons   — drawn for this store, inline SVG in markup
+
+Photographs (56 products + 10 second images + 9 other files)
+------------------------------------------------------------------
+
+assets/images/products/easy-on-footwear/hc-1001-adjustable-strap-slipper.jpg
+    Source page : https://www.pexels.com/photo/7937991/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/easy-on-footwear/hc-1002-wide-width-walking-shoe.jpg
+    Source page : https://images.unsplash.com/photo-1516538638415-6617293b0737
+    Photographer: named on the source page above
+    License     : Unsplash License — free for commercial use, no attribution required
+
+assets/images/products/easy-on-footwear/hc-1003-hands-free-slip-on-sneaker.jpg
+    Source page : https://images.unsplash.com/photo-1698732662028-2443c4acd739
+    Photographer: named on the source page above
+    License     : Unsplash License — free for commercial use, no attribution required
+
+assets/images/products/easy-on-footwear/hc-1004-memory-foam-moccasin-slipper.jpg
+    Source page : https://images.unsplash.com/photo-1543420629-5350879dd4cd
+    Photographer: named on the source page above
+    License     : Unsplash License — free for commercial use, no attribution required
+
+assets/images/products/easy-on-footwear/hc-1005-fleece-lined-bootie-slipper.jpg
+    Source page : https://www.pexels.com/photo/6633324/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/easy-on-footwear/hc-1006-washable-indoor-outdoor-slip-on.jpg
+    Source page : https://www.pexels.com/photo/6623895/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/easy-on-footwear/hc-1007-non-slip-gripper-socks-3-pack.jpg
+    Source page : https://www.pexels.com/photo/10557895/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/easy-on-footwear/hc-1008-non-binding-comfort-socks-6-pack.jpg
+    Source page : https://www.pexels.com/photo/251454/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/easy-on-footwear/hc-1009-graduated-compression-socks.jpg
+    Source page : https://www.pexels.com/photo/6617527/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/easy-on-footwear/hc-1010-wide-width-canvas-slip-on-shoe.jpg
+    Source page : https://www.pexels.com/photo/1447257/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/easy-on-footwear/hc-1011-easy-pull-rain-boot.jpg
+    Source page : https://www.pexels.com/photo/3866538/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/easy-on-footwear/hc-1012-stretch-knit-house-shoe.jpg
+    Source page : https://www.pexels.com/photo/7671671/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/adaptive-clothing/hc-1013-mens-magnetic-button-shirt.jpg
+    Source page : https://images.unsplash.com/photo-1602810316693-3667c854239a
+    Photographer: named on the source page above
+    License     : Unsplash License — free for commercial use, no attribution required
+
+assets/images/products/adaptive-clothing/hc-1014-womens-magnetic-front-blouse.jpg
+    Source page : https://unsplash.com/photos/bl0vEWscxkc
+    Photographer: Julie Stan
+    License     : Unsplash License — free for commercial use, no attribution required
+
+assets/images/products/adaptive-clothing/hc-1015-easy-zip-cardigan-pull-ring.jpg
+    Source page : https://www.pexels.com/photo/9603630/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/adaptive-clothing/hc-1016-pull-on-elastic-waist-trouser.jpg
+    Source page : https://unsplash.com/photos/h6PKsr0wDH4
+    Photographer: Tuananh Blue
+    License     : Unsplash License — free for commercial use, no attribution required
+
+assets/images/products/adaptive-clothing/hc-1017-side-zip-adaptive-pant.jpg
+    Source page : https://www.pexels.com/photo/4109798/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/adaptive-clothing/hc-1018-snap-front-housecoat.jpg
+    Source page : https://unsplash.com/photos/-N8Mc8yGwKQ
+    Photographer: Suzanne Rushton
+    License     : Unsplash License — free for commercial use, no attribution required
+
+assets/images/products/adaptive-clothing/hc-1019-snap-shoulder-cotton-undershirt.jpg
+    Source page : https://www.pexels.com/photo/18186105/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/adaptive-clothing/hc-1020-wrap-front-knit-top.jpg
+    Source page : https://www.pexels.com/photo/30569741/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/adaptive-clothing/hc-1021-hook-and-loop-fleece-vest.jpg
+    Source page : https://www.pexels.com/photo/6895767/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/adaptive-clothing/hc-1022-pull-on-knit-skort.jpg
+    Source page : https://www.pexels.com/photo/9814503/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/sleep-and-lounge/hc-1023-plush-fleece-robe.jpg
+    Source page : https://www.pexels.com/photo/10130828/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/sleep-and-lounge/hc-1024-flannel-pajama-set.jpg
+    Source page : https://www.pexels.com/photo/6933041/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/sleep-and-lounge/hc-1025-cotton-knit-nightgown.jpg
+    Source page : https://www.pexels.com/photo/8624576/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/sleep-and-lounge/hc-1026-quilted-bed-jacket.jpg
+    Source page : https://www.pexels.com/photo/17219734/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/sleep-and-lounge/hc-1027-two-piece-lounge-set.jpg
+    Source page : https://www.pexels.com/photo/6625450/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/sleep-and-lounge/hc-1028-waffle-knit-robe.jpg
+    Source page : https://www.pexels.com/photo/10130818/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/sleep-and-lounge/hc-1029-cozy-sleep-socks-2-pack.jpg
+    Source page : https://www.pexels.com/photo/6661038/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/sleep-and-lounge/hc-1030-satin-pillowcase.jpg
+    Source page : https://www.pexels.com/photo/5046179/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/sleep-and-lounge/hc-1031-contoured-sleep-mask.jpg
+    Source page : https://www.pexels.com/photo/6541122/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/sleep-and-lounge/hc-1032-cotton-sheet-set-queen.jpg
+    Source page : https://www.pexels.com/photo/3755590/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/warm-and-cozy/hc-1033-heated-throw-auto-shut-off.jpg
+    Source page : https://www.pexels.com/photo/4058792/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/warm-and-cozy/hc-1034-cable-knit-throw-blanket.jpg
+    Source page : https://unsplash.com/photos/WB7wXI8S0SE
+    Photographer: Artur Ament
+    License     : Unsplash License — free for commercial use, no attribution required
+
+assets/images/products/warm-and-cozy/hc-1035-knit-cowl-neck-warmer.jpg
+    Source page : https://www.pexels.com/photo/15127373/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/warm-and-cozy/hc-1036-sherpa-lap-blanket-with-pockets.jpg
+    Source page : https://www.pexels.com/photo/5789581/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/warm-and-cozy/hc-1037-wearable-fleece-blanket.jpg
+    Source page : https://www.pexels.com/photo/7623727/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/warm-and-cozy/hc-1038-knit-beanie.jpg
+    Source page : https://www.pexels.com/photo/37484033/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/warm-and-cozy/hc-1039-touchscreen-fleece-gloves.jpg
+    Source page : https://www.pexels.com/photo/35746702/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/warm-and-cozy/hc-1040-fleece-lined-scarf.jpg
+    Source page : https://www.pexels.com/photo/19346997/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/warm-and-cozy/hc-1041-knit-shawl-wrap.jpg
+    Source page : https://images.unsplash.com/photo-1731404247714-f19f610b32d4
+    Photographer: named on the source page above
+    License     : Unsplash License — free for commercial use, no attribution required
+
+assets/images/products/warm-and-cozy/hc-1042-fingerless-knit-gloves.jpg
+    Source page : https://www.pexels.com/photo/6265431/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/warm-and-cozy/hc-1043-fleece-lined-leggings.jpg
+    Source page : https://www.pexels.com/photo/16701769/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/warm-and-cozy/hc-1044-thermal-crew-neck-undershirt.jpg
+    Source page : https://www.pexels.com/photo/5746087/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/rest-and-relaxation/hc-1045-chair-seat-cushion.jpg
+    Source page : https://www.pexels.com/photo/6312042/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/rest-and-relaxation/hc-1046-small-back-cushion.jpg
+    Source page : https://www.pexels.com/photo/6312058/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/rest-and-relaxation/hc-1047-firm-bed-pillow-2-pack.jpg
+    Source page : https://www.pexels.com/photo/6312053/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/rest-and-relaxation/hc-1048-travel-neck-pillow.jpg
+    Source page : https://www.pexels.com/photo/25210705/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/rest-and-relaxation/hc-1049-textured-cushion-cover-2-pack.jpg
+    Source page : https://www.pexels.com/photo/6801218/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/rest-and-relaxation/hc-1050-weighted-blanket-12-lb.jpg
+    Source page : https://www.pexels.com/photo/17197912/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/rest-and-relaxation/hc-1051-velvet-comfort-pillow-2-pack.jpg
+    Source page : https://www.pexels.com/photo/4271665/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/rest-and-relaxation/hc-1052-slim-seat-pad.jpg
+    Source page : https://www.pexels.com/photo/6312044/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/everyday-accessories/hc-1053-large-face-analog-wristwatch.jpg
+    Source page : https://www.pexels.com/photo/33524465/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/everyday-accessories/hc-1054-rfid-cross-body-wallet.jpg
+    Source page : https://unsplash.com/photos/LBKDJI8Ernw
+    Photographer: Suraj Kumar
+    License     : Unsplash License — free for commercial use, no attribution required
+
+assets/images/products/everyday-accessories/hc-1055-auto-open-compact-umbrella.jpg
+    Source page : https://www.pexels.com/photo/12920787/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/everyday-accessories/hc-1056-lightweight-zip-pocket-tote.jpg
+    Source page : https://www.pexels.com/photo/6787035/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/easy-on-footwear/hc-1001-adjustable-strap-slipper-2.jpg
+    Source page : https://www.pexels.com/photo/6633376/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/easy-on-footwear/hc-1002-wide-width-walking-shoe-2.jpg
+    Source page : https://www.pexels.com/photo/16027278/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/adaptive-clothing/hc-1013-mens-magnetic-button-shirt-2.jpg
+    Source page : https://www.pexels.com/photo/4440572/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/adaptive-clothing/hc-1016-pull-on-elastic-waist-trouser-2.jpg
+    Source page : https://www.pexels.com/photo/4109755/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/sleep-and-lounge/hc-1023-plush-fleece-robe-2.jpg
+    Source page : https://www.pexels.com/photo/32334252/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/sleep-and-lounge/hc-1024-flannel-pajama-set-2.jpg
+    Source page : https://unsplash.com/photos/1xzSAlZUVSc
+    Photographer: David Lezcano
+    License     : Unsplash License — free for commercial use, no attribution required
+
+assets/images/products/warm-and-cozy/hc-1033-heated-throw-auto-shut-off-2.jpg
+    Source page : https://www.pexels.com/photo/4058786/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/warm-and-cozy/hc-1036-sherpa-lap-blanket-with-pockets-2.jpg
+    Source page : https://www.pexels.com/photo/3996529/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/rest-and-relaxation/hc-1045-chair-seat-cushion-2.jpg
+    Source page : https://www.pexels.com/photo/6312055/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/products/rest-and-relaxation/hc-1050-weighted-blanket-12-lb-2.jpg
+    Source page : https://www.pexels.com/photo/17197893/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/hero/hearthside-hero.jpg
+    Source page : https://www.pexels.com/photo/7544978/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/about/hearthside-about.jpg
+    Source page : https://www.pexels.com/photo/7545214/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/brand/og-image.jpg
+    Source page : https://www.pexels.com/photo/8139239/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/departments/easy-on-footwear.jpg
+    Source page : https://www.pexels.com/photo/1444417/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/departments/adaptive-clothing.jpg
+    Source page : https://www.pexels.com/photo/9603626/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/departments/sleep-and-lounge.jpg
+    Source page : https://www.pexels.com/photo/15585242/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/departments/warm-and-cozy.jpg
+    Source page : https://www.pexels.com/photo/30838013/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/departments/rest-and-relaxation.jpg
+    Source page : https://www.pexels.com/photo/920383/
+    Photographer: named on the source page above
+    License     : Pexels License — free for commercial use, no attribution required
+
+assets/images/departments/everyday-accessories.jpg
+    Source page : https://unsplash.com/photos/cjUxiJoVzc0
+    Photographer: Marcin Kempa
+    License     : Unsplash License — free for commercial use, no attribution required
+
+Pexels License terms:   https://www.pexels.com/license/
+Unsplash License terms: https://unsplash.com/license
+
+If you believe any image here is credited wrongly or used incorrectly, please
+write to us — the address is in the footer of every page — and we will correct
+the record.
